@@ -3,7 +3,7 @@ Software Developer | Web & Mobile Development Enthusiast | AI Learner
 
 - I'm a Software Developer, focussing on developing web and mobile applications.
 - 🔭 Hands-on experience in Java, JavaScript, HTML, CSS, SQL and related frameworks and technolgies.
-- 👯 I’m looking to collaborate on Java, Web Development ang Gen AI projects
+- 👯 I’m looking to collaborate on Java, Web Development & Gen AI projects
 - 💬 Ask me about Java, Spring, or Full Stack Development
 - 🌱 I’m currently learning AWS and Generative AI
 - 📫 How to reach me:
