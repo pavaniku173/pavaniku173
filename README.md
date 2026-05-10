@@ -10,7 +10,7 @@ Currently focused on evolving from a traditional software developer into an **AI
 I enjoy turning ideas into scalable systems — and now, into **AI-powered experiences**.
 
 ## ⚡ What I Work With
-💻 Full Stack Development  : Java • Spring Boot • JavaScript • React • SQL  
+💻 Full Stack Development  : Java, Python, Spring Boot, JavaScript, React, Angular, SQL/NoSQL  
 🤖 AI / LLM Engineering  : GPT-5.5 (Codex-based workflows), Ollama (Local LLMs), Qwen Models, RAG (Retrieval-Augmented Generation), LangChain, Vector Databases • Embeddings • Semantic Search  
 ☁️ Cloud & Learning : AWS• Generative AI • LLM System Design  
 
