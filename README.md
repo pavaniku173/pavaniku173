@@ -1,7 +1,8 @@
 ## Hi there 👋, I'm Pavani
 pavaniku173/README.md
 
-### 🚀 Full Stack Developer | AI Engineer (LLM Systems | RAG | LangChain)
+### 🚀 💻 Software Engineer | 🌐 Full Stack Developer | 🤖 AI Engineer  
+(LLM Systems • RAG • LangChain • Agentic AI)
 ✨ Building systems where software meets intelligence.
 
 ## 🧠 About Me
@@ -32,9 +33,7 @@ I believe the future of engineering is not just writing code, but designing syst
 - Exploring real-world RAG architectures  
 - Improving scalable backend + AI integration patterns  
 
-## 📫 Let’s Connect
+## 🔗 Connect with me
 
-## 🌐 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/pavaniku173)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/pavani-kurra-b83528204) . Open to collaboration in AI + Full Stack + LLM systems
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pavaniku173)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavani-kurra-b83528204) . Open to collaboration in AI + Full Stack + LLM systems
