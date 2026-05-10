@@ -1,5 +1,4 @@
 ## Hi there 👋, I'm Pavani
-pavaniku173/README.md
 
 ### 🚀 💻 Software Engineer | 🌐 Full Stack Developer | 🤖 AI Engineer  
 (LLM Systems • RAG • LangChain • Agentic AI)
