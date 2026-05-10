@@ -34,6 +34,7 @@ I believe the future of engineering is not just writing code, but designing syst
 
 ## 📫 Let’s Connect
 
-## 🌐 Connect with me - [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavaniku173)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://linkedin.com/in/pavani-kurra-b83528204))
-Open to collaboration in AI + Full Stack + LLM systems
+## 🌐 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/pavaniku173)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/pavani-kurra-b83528204) . Open to collaboration in AI + Full Stack + LLM systems
