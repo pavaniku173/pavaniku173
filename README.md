@@ -1,19 +1,39 @@
 ## Hi there 👋, I'm Pavani
-Software Developer | Web & Mobile Development Enthusiast | AI Learner
+pavaniku173/README.md
 
-- I'm a Software Developer, focussed on developing web and mobile applications.
-- 🔭 Hands-on experience in Java, JavaScript, HTML, CSS, SQL and related frameworks and technolgies.
-- 👯 I’m looking to collaborate on Java, Web Development & Gen AI projects
-- 💬 Ask me about Java, Spring, or Full Stack Development
-- 🌱 I’m currently learning AWS and Generative AI
-- 📫 How to reach me:
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavaniku173)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavani-kurra-b83528204)
-- 😄 Pronouns: She/Her
+### 🚀 Full Stack Developer | AI Engineer (LLM Systems | RAG | LangChain)
+✨ Building systems where software meets intelligence.
 
+## 🧠 About Me
+I build at the intersection of Full Stack Engineering + Artificial Intelligence.
+Currently focused on evolving from a traditional software developer into an **AI Systems Engineer**, working with LLMs, retrieval systems, and intelligent application design.
+I enjoy turning ideas into scalable systems — and now, into **AI-powered experiences**.
 
-## Skills
-- 💻 UI: JavaScript, HTML, CSS, reactJS, Bootstrap.
-- 🖥  Backend: Java, Spring Core, Spring Boot, Spring security, Spring Cloud.
-- 🗄 Database: MySQL, Postgres, MongoDB, Microsoft SQL Server, oracle.
-- 🛠 IDE:Eclipse, Visual Studio Code, IntelliJ.
+## ⚡ What I Work With
+💻 Full Stack Development  : Java • Spring Boot • JavaScript • React • SQL  
+🤖 AI / LLM Engineering  : GPT-5.5 (Codex-based workflows), Ollama (Local LLMs), Qwen Models, RAG (Retrieval-Augmented Generation), LangChain, Vector Databases • Embeddings • Semantic Search  
+☁️ Cloud & Learning : AWS• Generative AI • LLM System Design  
+
+## 🔬 What I’m Building / Exploring
+🧩 AI-powered full stack applications  
+🧠 RAG-based knowledge systems  
+🔗 LangChain orchestration pipelines  
+⚙️ Local vs cloud LLM workflows  
+🤝 Human-in-the-loop AI systems  
+🚀 Agentic AI & automation concepts  
+
+## 💡 Mindset
+> “Software is no longer just built — it is orchestrated with intelligence.”
+I believe the future of engineering is not just writing code, but designing systems that think, retrieve, and reason.
+
+## 📈 Current Focus
+- Building production-style AI applications  
+- Strengthening LLM system design skills  
+- Exploring real-world RAG architectures  
+- Improving scalable backend + AI integration patterns  
+
+## 📫 Let’s Connect
+
+## 🌐 Connect with me - [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavaniku173)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://linkedin.com/in/pavani-kurra-b83528204))
+Open to collaboration in AI + Full Stack + LLM systems
