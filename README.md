@@ -35,16 +35,10 @@ I believe the future of engineering is not just writing code, but designing syst
 
 ## 🔗 Connect with me
 
-<p align="left">
-  <a href="https://github.com/pavaniku173">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"
-         width="45" height="45"
-         style="background:black; border-radius:50%; padding:8px; filter: invert(1);" />
-  </a>
+<a href="https://github.com/pavaniku173">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-  <a href="https://linkedin.com/in/pavani-kurra-b83528204">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         width="45" height="45"
-         style="border-radius:50%;" />
-  </a>
-</p> . Open to collaboration in AI + Full Stack + LLM systems
+<a href="https://linkedin.com/in//pavani-kurra-b83528204">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a> . Open to collaboration in AI + Full Stack + LLM systems
